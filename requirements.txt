@@ -1,0 +1,6 @@
+Mastodon.py>=1.8
+textblob>=0.17
+nltk>=3.8
+wordcloud>=1.9
+beautifulsoup4>=4.12
+matplotlib>=3.7
